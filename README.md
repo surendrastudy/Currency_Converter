@@ -25,3 +25,11 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/surendrastudy/Currency_Converter.git
+
+
+2. Navigate to the Project Folder
+bash
+Copy code
+cd Currency_Converter
+3. Open the index.html file in your browser
+This project doesn't require a server-side setup, simply open the HTML file in your preferred browser to view the app.
